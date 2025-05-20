@@ -1,4 +1,5 @@
-# 스프링 너무너무너무너무넘 어려워
+# 자바 스프링 공부중인데 너무 어려워요오오..
+## 리드미는 방학때 꾸밀게유우우우
 
 <!--
 **pso0207/pso0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

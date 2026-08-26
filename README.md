@@ -32,17 +32,3 @@
 - **괌 데이터 분석 단기연수** — 팀 빌딩 → 분석 → 발표까지 전과정 경험
 
 
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pso0207&show_icons=true&hide_border=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pso0207&layout=compact&hide_border=true" height="150" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=pso0207&hide_border=true" height="150" />
-</p>
-
-

@@ -5,7 +5,7 @@
 ## 🚀 현재 집중하는 것
 - **Backend Architecture**: Java Spring Boot와 MySQL을 활용한 안정적인 백엔드 구축
 - **CS Fundamentals**: 운영체제(OS), 멀티 프로세서, 컴퓨터 구조 등 저수준(Low-level) 시스템 아키텍처에 대한 깊이 있는 스터디
-- **Algorithm**
+- **AI & LLM Systems**: RAG 기반 지식 검색 시스템 구축 및 사내 LLM 서비스 아키텍처 설계·운영 기술 학습
 
 ## 🧰 Tech Stack & Tools
 
